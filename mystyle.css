@@ -1,0 +1,54 @@
+body {
+	background: blue;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bolder;
+	color: red;
+	text-align: center;	
+}
+
+h2 {
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	color: red;	
+	text-align: center;
+}
+a:link {
+    font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-weight: bold;
+	color: white;
+}
+a:visited {
+    font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-weight: bold;
+	color: green;
+}
+
+a:hover {
+    font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-weight: bold;
+	color: yellow;
+}
+
+a:active {
+    font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-weight: bold;
+	color: purple;
+}
